@@ -88,7 +88,13 @@ Additional help topics:
 
 Use "hugo [command] --help" for more information about a command.
 ```
+### Create New Site
 
+Creates a new site with its folder structure in the current directory.
+
+> hugo new site [site-name]
+
+Don't use blank spaces in the site's name, use underscore or dash instead.
 
 
 https://github.com/JulienD/Hugo-Cheatsheet
