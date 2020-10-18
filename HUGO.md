@@ -122,6 +122,8 @@ Contains data in e.g. JSON files that can be used to build the site. It serves a
 
 **layouts**
 
+A directory of templates. Each provides a consistent layout when rendering the markdown files that exist in content/. Can contain files like *header.html* and *footer.html* that will be similar across the whole site.
+
 **static**
 
 **themes**
