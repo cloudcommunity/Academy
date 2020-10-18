@@ -106,6 +106,14 @@ Contains markdown files named after content types on your site. Examples of this
 
 **content**
 
+Holds all the content of your site.
+
+It is made up of the sections and static pages that structure a website. There's a distinct difference between the terms sections and static pages and it's pretty easy to grasp:
+
+A *section* is a portion of the site that holds subcontent, such as a blog section and a work section. The blog section contains individual blog posts, and the work section is a portfolio of individual projects.
+
+A *static page* is simply a page that renders content and nothing else. It doesn't need to index a list of subcontent for the user to peruse. The about page is a good example. If you view it in the browser, you can't go down any further. It's the about page and that's it.
+
 **data**
 
 **layouts**
