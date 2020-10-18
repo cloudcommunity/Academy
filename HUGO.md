@@ -118,6 +118,8 @@ The _index.md file plays an important role here. Hugo requires that an _index.md
 
 **data**
 
+Contains data in e.g. JSON files that can be used to build the site. It serves as a replacement to a database.
+
 **layouts**
 
 **static**
