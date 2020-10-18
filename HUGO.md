@@ -114,6 +114,8 @@ A *section* is a portion of the site that holds subcontent, such as a blog secti
 
 A *static page* is simply a page that renders content and nothing else. It doesn't need to index a list of subcontent for the user to peruse. The about page is a good example. If you view it in the browser, you can't go down any further. It's the about page and that's it.
 
+The _index.md file plays an important role here. Hugo requires that an _index.md file be explicity defined at the root of content/, and it uses this file to render the homepage of your site.
+
 **data**
 
 **layouts**
