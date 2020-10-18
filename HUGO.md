@@ -126,6 +126,8 @@ A directory of templates. Each provides a consistent layout when rendering the m
 
 **static**
 
+All assets are placed here and can then be used throughout the project. Images, css, js files...
+
 **themes**
 
 
