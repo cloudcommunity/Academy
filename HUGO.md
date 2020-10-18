@@ -100,6 +100,8 @@ Don't use blank spaces in the site's name, use underscore or dash instead.
 
 **archetypes**
 
+Contains markdown files named after content types on your site. Examples of this would be: blog.md, work.md, and of course, pizza.md. Inside these "archetypes" are default parameters defined via front matter that every new piece of content associated with this archetype will inherit. When you first start a new Hugo project the archetypes/ directory will only contain a default.md file. All new content files generated via the command line will inherit from this archetype unless an archetype exists specifically for that content type.
+
 **config.toml**
 
 **content**
@@ -114,3 +116,5 @@ Don't use blank spaces in the site's name, use underscore or dash instead.
 
 
 https://github.com/JulienD/Hugo-Cheatsheet
+
+https://www.jakewiesler.com/blog/hugo-directory-structure
