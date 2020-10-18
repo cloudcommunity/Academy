@@ -96,5 +96,21 @@ Creates a new site with its folder structure in the current directory.
 
 Don't use blank spaces in the site's name, use underscore or dash instead.
 
+## Folder Structure
+
+**archetypes**
+
+**config.toml**
+
+**content**
+
+**data**
+
+**layouts**
+
+**static**
+
+**themes**
+
 
 https://github.com/JulienD/Hugo-Cheatsheet
