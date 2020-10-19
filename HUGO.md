@@ -130,7 +130,10 @@ All assets are placed here and can then be used throughout the project. Images, 
 
 **themes**
 
+For 3rd party themes.
 
 https://github.com/JulienD/Hugo-Cheatsheet
 
 https://www.jakewiesler.com/blog/hugo-directory-structure
+
+https://jpdroege.com/blog/hugo-file-organization/
