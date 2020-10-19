@@ -9,9 +9,15 @@
 
 ## Getting Started
 
-[Installing Hugo on Windows](https://www.youtube.com/watch?v=G7umPCU-8xc)
+[Whole Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 
-[Creating a New Site / Directory Structure](https://www.youtube.com/watch?v=sB0HLHjgQ7E)
+2. [Installing Hugo on Windows](https://www.youtube.com/watch?v=G7umPCU-8xc)
+
+3. [Installing Hugo on Mac](https://www.youtube.com/watch?v=WvhCGlLcrF8)
+
+4. [Creating a New Site / Directory Structure](https://www.youtube.com/watch?v=sB0HLHjgQ7E)
+
+5. [Installing & Using Themes](https://www.youtube.com/watch?v=L34JL_3Jkyc)
 
 ## Hugo Commands
 
